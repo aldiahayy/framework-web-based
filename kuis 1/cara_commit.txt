@@ -1,0 +1,6 @@
+git clone https://github.com/aldiahayy/framework-web-based.git
+cd framework-web-based
+cd "kuis 1 fwb"
+git add .
+git commit -m "tugas 2 fwb"
+git push
