@@ -1,0 +1,6 @@
+php artisan make:model D0224043Mahasiswa -m
+php artisan migrate
+php artisan make:seeder MahasiswaSeeder
+php artisan db:seed
+php artisan make:controller MahasiswaController –resource
+php artisan migrate:fresh
