@@ -1,0 +1,24 @@
+Versi A – NIM GANJIL
+Tugas
+Buatlah struktur template website menggunakan Blade Template dengan ketentuan berikut.
+
+1. Membuat Layout Master (30 poin)
+Buat file:
+resources/views/layout/master.blade.php
+Struktur layout:
+Header
+Navbar
+Content
+Footer
+Pada bagian konten gunakan:
+@yield('content')
+
+2. Membuat Partial View (30 poin)
+Buat folder:
+resources/views/partials
+Kemudian buat file:
+navbar.blade.php
+footer.blade.php
+Panggil file tersebut pada layout master menggunakan include
+
+3. Buatlah controller dengan nama:NimController dimana berisi method Halaman Home, Layanan dan Kontak serta pastikan menu yang dibuat bisa di klik dengan pesan yang berbeda  (40 poin)
