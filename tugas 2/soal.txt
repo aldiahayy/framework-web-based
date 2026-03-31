@@ -1,0 +1,4 @@
+1. Jelaskan fungsi dari @yield, @extends, @section dan @include dalam Laravel Blade Template. Berikan contoh sederhana penggunaannya.
+2. Buatlah 2 buah controller dimana setiap controller berisi 3 method yang berbeda
+3. Buatlah web sederhana minimal 6 menu menggunakan @yield, @extends, @section dan @include serta wajib menggunakan template bootstrap. pisahkan header, footer ,content dan navigation.
+4. buatlah 2 component (button , card atau yang lainnya) kemudian tampilkan hasilnya pada halaman yang berbeda.
