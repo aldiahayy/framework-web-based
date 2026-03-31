@@ -4,3 +4,7 @@ php artisan make:seeder MahasiswaSeeder
 php artisan db:seed
 php artisan make:controller MahasiswaController –resource
 php artisan migrate:fresh
+
+refresh sqlite -> mysql
+php artisan config:clear
+php artisan cache:clear
